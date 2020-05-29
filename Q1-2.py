@@ -1,4 +1,4 @@
-'''Jun Yu Academy'''
+'''Jun Yi Academy'''
 
 ### Q1. ###
 def reverseString(in_str):
